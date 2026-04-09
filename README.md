@@ -60,14 +60,15 @@ The lab covered three attack categories: **password/brute force attacks**, **com
 ### 🔍 Exercise 1 — SMB Brute Force Attack
 
 **nmap scan revealing SMB ports 139 and 445 open:**
+![01_nmap_SMB_port_scan](https://github.com/user-attachments/assets/2c30f9e9-9d8d-4001-bffb-5c191f09fa23)
 
-![nmap scan](screenshots/01_nmap_SMB_port_scan.jpg)
 
 ---
 
 **enum4linux enumerating known usernames from the target:**
 
-![enum4linux](screenshots/02_enum4linux_user_enumeration.jpg)
+![02_enum4linux_user_enumeration](https://github.com/user-attachments/assets/415a1525-db32-4f51-854b-6dbf19fad56e)
+
 
 ---
 
